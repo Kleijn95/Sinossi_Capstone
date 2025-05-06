@@ -1,7 +1,7 @@
-# Sinossi Capstone - Sistema di prenotazione Stand-up Comedy
+# Sinossi Capstone - ComedyFlow
 
 ## 🎯 Descrizione del progetto
-Il progetto si concentra sulla creazione di un sistema di prenotazione per eventi di stand-up comedy, rivolto a tre tipi di utenti: comici, locali e spettatori. L'app permette ai comici di partecipare ad eventi, ai locali di prenotare comici per spettacoli e agli spettatori di prenotare posti agli eventi. L'idea è di rendere più semplice la gestione degli eventi e la promozione delle performance comiche in un contesto locale, con particolare attenzione a Catania dove il fenomeno della stand-up comedy è in forte crescita.
+ComedyFlow è un sistema di prenotazione per eventi di stand-up comedy, rivolto a tre tipi di utenti: comici, locali e spettatori. L'app permette ai comici di partecipare ad eventi, ai locali di prenotare comici per spettacoli e agli spettatori di prenotare posti agli eventi. L'idea è di rendere più semplice la gestione degli eventi e la promozione delle performance comiche in un contesto locale, con particolare attenzione a Catania, dove il fenomeno della stand-up comedy è in forte crescita.
 
 ## ✨ Cosa fa il sistema di prenotazione?
 - **Comici:** Possono creare e gestire eventi di stand-up comedy, con la possibilità di visualizzare gli eventi passati e futuri.
